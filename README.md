@@ -10,7 +10,9 @@ Dessa vez falaremos sobre uma tecnología que vem ganhando muita fama nos últim
 ### [👩‍🏫 Slides](Slides_WS.pdf) 
 
 ### 👨‍💻 Código para ser completado
-- 🚧
+- **[📝 Github](ws_redes_neurais.ipynb)**
+- **[☁️ Colab](https://colab.research.google.com/github/turing-usp/Workshop-de-redes-neurais-2.0/blob/main/ws_redes_neurais.ipynb)**
 
 ### 👩‍⚖️ Código Completo
 - **[📝 Github](gabarito.ipynb)**
+- **[☁️ Colab](https://colab.research.google.com/github/turing-usp/Workshop-de-redes-neurais-2.0/blob/main/gabarito.ipynb)**
